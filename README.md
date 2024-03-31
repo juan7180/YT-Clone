@@ -27,10 +27,6 @@ random yt clone i made
 2. Set up the database.
 3. Configure the application.
 
-## Usage
-
-- Instructions for using the YouTube clone.
-- Example scenarios or workflows.
 
 ## Deployment
 
