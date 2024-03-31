@@ -89,5 +89,26 @@ $videos = $stmt->fetchAll(PDO::FETCH_ASSOC);
             <?php endforeach; ?>
         </div>
     </div>
+    <script>
+        // Function to generate a random 12-digit number
+        function generateRandomNumber() {
+            return Math.floor(100000000000 + Math.random() * 900000000000);
+        }
+
+        // Function to check if the URL contains id parameter
+        function checkIdParameter() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const id = urlParams.get('id');
+            if (id && /^\d{12}$/.test(id)) {
+                return id;
+            } else {
+                const randomNumber = generateRandomNumber();
+                window.location.href = `index.php?id=${randomNumber}`;
+            }
+        }
+
+        // Check if the id parameter is present and valid
+        checkIdParameter();
+    </script>
 </body>
 </html>
