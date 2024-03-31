@@ -30,11 +30,8 @@ random yt clone i made
 
 ## Deployment
 
-- Steps to deploy the YouTube clone (e.g., hosting on a web server).
+u just have to setup the db.php and ur done
 
-## Troubleshooting
-
-- Common issues and their solutions.
 
 ## Contributing
 
@@ -46,12 +43,4 @@ random yt clone i made
 
 ## License
 
-- Information about the project's license (e.g., MIT License).
-
-## Support
-
-- Contact information for support or assistance.
-
-## Conclusion
-
-- Final remarks or summary.
+- MIT License
