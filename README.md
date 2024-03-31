@@ -14,7 +14,8 @@ random yt clone i made
 
 ## Screenshots/Demo
 
-- Screenshots or demo video of the YouTube clone in action.
+![image](https://github.com/juan7180/YT-Clone/assets/113482741/ba7a099a-f8ca-4fbd-ac98-d8248284c3c6)
+
 
 ## Prerequisites
 
