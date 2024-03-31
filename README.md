@@ -33,13 +33,10 @@ random yt clone i made
 u just have to setup the db.php and ur done
 
 
-## Contributing
-
-- Guidelines for contributing to the project.
 
 ## Credits
 
-- Acknowledgements or credits to individuals or organizations.
+- chatgpt
 
 ## License
 
