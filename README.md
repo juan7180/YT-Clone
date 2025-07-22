@@ -1,1 +1,1 @@
-no instructions
+skidded yt clone made with chatgpt
